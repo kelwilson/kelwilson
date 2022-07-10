@@ -1,5 +1,6 @@
-<svg>
-<foreignObject>
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+ <div xmlns="http://www.w3.org/1999/xhtml">
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -11,7 +12,7 @@
 
 
 <p> 👋 Hi, I’m</p> <button type="button" style="color: purple; width: 100%; padding: 10px 7px; border-radius: 2%; box-shadow: 1px 2px 3px">kelwilson</button>
-
+<div>
   </foreignObject>
 </svg>
 
