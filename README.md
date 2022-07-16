@@ -1,6 +1,6 @@
 ![]("https://www.canva.com/design/DAFGB6pYKKA/view")
 
- 👋 Hi, I’m kelwilson
+ 👋 Hi, I’m kelwilson, &nbsp;`a Software Engineer | Full-Stack Developer`
 
 
 
@@ -12,9 +12,9 @@
 -  [![](https://img.shields.io/badge/-GMAIL-e34f26?logo=gmail&logoColor=fff)](kelwilsonachienu@gmail.com) &nbsp;
    [![](https://img.shields.io/badge/-LINKEDIN-0077b5?logo=Linkedin&logoColor=fff)](https://linkedin.com/in/kelly-besong-b33074237) &nbsp; 
    [![](https://img.shields.io/badge/-TWITTER-1DA1F2?logo=twitter&logoColor=fff)](https://twitter.com/BesongMaris) &nbsp; 
-   ![](https://img.shields.io/badge/-AngelList-1DA1F2?logo=AngelList&logoColor=fff)
-
-![](https://github-readme-stats.vercel.app/api?username=kelwilson&count_private=true&show_icons=true&theme=radical)
+   ![](https://img.shields.io/badge/-AngelList-1DA1F2?logo=AngelList&logoColor=fff) 
+   
+![](https://github-readme-stats.vercel.app/api?username=kelwilson&count_private=true&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelwilson&show_icons=true&theme=radical)
 
 <!---
