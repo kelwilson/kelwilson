@@ -1,4 +1,4 @@
-![](https:https://www.canva.com/design/DAFGB6pYKKA/view)
+[![MY CV](https://www.canva.com/design/DAFGB6pYKKA/view)
 
  👋 Hi, I’m kelwilson
 
@@ -7,7 +7,7 @@
 - 👀 I’m interested in a whole lot of stuffs, im empathetic, very inquinsitive, adventureous forever willing to improve on my skill sets and never too old to learn...
 - 🌱 I’m currently learning javaScript and whatever i can set my sight on
 - 💞️ I’m looking to collaborate on every project no matter the magnitude
-- 📫 How to reach me on Discord:kelwilson!!#6085; whatsapp:+233239503129; Gmail:kelwilsonachienu@gmail.com
+- 📫 How to reach me on Discord:kelwilson!!#6085; [![whatsapp:]+233239503129;[![Gmail](https://img.shields.io/badge/kelwilsonachienu@gmail.com)
 
 <!---
 kelwilson/kelwilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
