@@ -1,6 +1,6 @@
 ![]("https://www.canva.com/design/DAFGB6pYKKA/view")
 
- 👋 Hi, I’m kelwilson, &nbsp;`a Software Engineer | Full-Stack Developer`
+ 👋 Hi, I’m kelwilson, &nbsp;` Software Engineer | Full-Stack Developer`
 
 
 
@@ -15,7 +15,7 @@
    ![](https://img.shields.io/badge/-AngelList-1DA1F2?logo=AngelList&logoColor=fff) 
    
 ![](https://github-readme-stats.vercel.app/api?username=kelwilson&count_private=true&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelwilson&show_icons=true&theme=radical)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelwilson&show_icons=true&theme=radical)
 
 <!---
 kelwilson/kelwilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
