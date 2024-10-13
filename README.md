@@ -4,8 +4,8 @@
 
 
 
-- 👀 I’m interested in a whole lot of stuffs, im empathetic, resilient, receptive, optimistic, adventureous forever willing to improve on my skill sets and never too old to learn...
-- 🌱 I’m currently learning javaScript and whatever i can set my sight on
+👀 I’m interested in a whole lot of stuff. I'm empathetic, resilient, receptive, optimistic, and adventurous. I'm always willing to improve my skill sets and am never too old to learn.
+- 🌱 I’m currently focused on the backend
 - 💞️ I’m looking to collaborate on every project no matter the magnitude
 - 📫 How to reach me on ![](https://img.shields.io/badge/-DISCORD-0000ff?logo=discord&logoColor=fff) &nbsp;`(() => {kelwilson!!#6085});`
 - <img src="https://img.shields.io/badge/-WHATSAPP-008400?logo=whatsapp&logoColor=fff"> &nbsp;`{ +233239503129 }`  &nbsp; &nbsp;
