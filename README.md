@@ -5,7 +5,7 @@
 
 
 👀 I’m interested in a whole lot of stuff. I'm empathetic, resilient, receptive, optimistic, and adventurous. I'm always willing to improve my skill sets and am never too old to learn.
-- 🌱 I’m currently focused on building highly scalable apps that solve real-world problems and deliver value. I’m passionate about leveraging technology to create meaningful solutions and always eager to learn and grow in       this journey!
+- 🌱 I’m currently focused on building highly scalable apps that solve real-world problems and deliver value. I’m passionate about leveraging technology to create meaningful solutions and always eager to learn and grow in         this journey!
 - 💞️ I’m looking to collaborate on every project no matter the magnitude
 - 📫 How to reach me on ![](https://img.shields.io/badge/-DISCORD-0000ff?logo=discord&logoColor=fff) &nbsp;`(() => {kelwilson!!#6085});`
 - <img src="https://img.shields.io/badge/-WHATSAPP-008400?logo=whatsapp&logoColor=fff"> &nbsp;`{ +233239503129 }`  &nbsp; &nbsp;
